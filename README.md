@@ -51,8 +51,8 @@ Unlike standard rate limiters, this bot uses a custom SQLite-backed spam tracker
 1. **Clone the repository:**
 
 ```bash
-   git clone [https://github.com/yourusername/rigged-rizz-bot.git](https://github.com/yourusername/rigged-rizz-bot.git)
-   cd rigged-rizz-bot
+git clone https://github.com/D3vDaddy/RiggedRizzBot.git
+cd rigged-rizz-bot
 ```
 
 2. **Install dependencies:**
