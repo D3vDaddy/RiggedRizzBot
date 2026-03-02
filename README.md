@@ -6,6 +6,8 @@ Designed for large group chats, this bot features a complete "Rizz" based econom
 
 ## ✨ Core Features
 
+(NOTE: ADMIN FEATURES ALSO ADDED TO LAZY TO EDIT README.md, figure it out yourself.)
+
 ### 📈 Dynamic Economy & Aura Levels
 
 * **Rizz Points (RP):** The core currency. Users can check their `/balance` or view their detailed `/rizz` profile.
